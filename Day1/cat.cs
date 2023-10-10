@@ -1,3 +1,4 @@
+namespace Animal;
 class Cat
 {
 	public string color;
@@ -5,11 +6,11 @@ class Cat
 	public bool isTailLong;
 	public int weight;
 	public int height;
-	public void jump()
+	public void Jump(string direction)
 	{
-		Console.WriteLine("Jump");
+		Console.WriteLine("Jump \t" + direction);
 	}
-	public void run()
+	public void Run()
 	{
 		Console.WriteLine("Run");
 	}

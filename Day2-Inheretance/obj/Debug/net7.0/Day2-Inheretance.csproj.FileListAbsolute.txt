@@ -1,0 +1,15 @@
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\Day2-Inheretance.csproj.AssemblyReference.cache
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\Day2-Inheretance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\Day2-Inheretance.AssemblyInfoInputs.cache
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\Day2-Inheretance.AssemblyInfo.cs
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\Day2-Inheretance.csproj.CoreCompileInputs.cache
+C:\Bootcamp-Igo\Day2-Inheretance\bin\Debug\net7.0\Day2-Inheretance.exe
+C:\Bootcamp-Igo\Day2-Inheretance\bin\Debug\net7.0\Day2-Inheretance.deps.json
+C:\Bootcamp-Igo\Day2-Inheretance\bin\Debug\net7.0\Day2-Inheretance.runtimeconfig.json
+C:\Bootcamp-Igo\Day2-Inheretance\bin\Debug\net7.0\Day2-Inheretance.dll
+C:\Bootcamp-Igo\Day2-Inheretance\bin\Debug\net7.0\Day2-Inheretance.pdb
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\Day2-Inheretance.dll
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\refint\Day2-Inheretance.dll
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\Day2-Inheretance.pdb
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\Day2-Inheretance.genruntimeconfig.cache
+C:\Bootcamp-Igo\Day2-Inheretance\obj\Debug\net7.0\ref\Day2-Inheretance.dll
