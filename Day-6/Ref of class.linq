@@ -6,7 +6,13 @@
 
 //Reference Type, why dont need Ref
 void Main() {
-	Car car = new Car(2000); //Reference Type
+//    Console.WriteLine("Input the price");
+//	string input=Console.ReadLine();
+//	int.TryParse(input, out int result);
+//	 
+int result= 2000;
+	
+	Car car = new Car(result); //Reference Type
 	MultiplyByTwoCar(car);
 	car.Dump(); // 4000
 }
